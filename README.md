@@ -139,8 +139,7 @@ Screenshots stored in `/results` folder:
 - ✅ Tomcat App Running
 
 ---
-
-## 👤 Author
+👤 Author
 
 Harish Maganti
 GitHub: [Harishmaganti2](https://github.com/Harishmaganti2)
